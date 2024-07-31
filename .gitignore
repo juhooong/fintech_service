@@ -1,5 +1,8 @@
 .env
+.dbenv
 .ipynb_checkpoints
 __pycache__
 build
 dist
+dbenv.py
+*.exe
