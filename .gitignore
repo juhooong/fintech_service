@@ -6,3 +6,4 @@ build
 dist
 dbenv.py
 *.exe
+*.tsv
