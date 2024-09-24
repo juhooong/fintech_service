@@ -11,3 +11,4 @@ model
 .keras
 .joblib
 *.jpg
+*.png
